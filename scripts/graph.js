@@ -5,6 +5,7 @@ window.onload = function () {
     var k = new Date(document.getElementById("alg").value);
     document.querySelector('.l6pp').value = (new Date(k.setDate(k.getDate() + 7)).toISOString().substr(0, 10));
 };
+
 //GRAAFIKU JOONISTAMINE
 function graaf() {
     //loeme väärtused sisse
