@@ -5,7 +5,7 @@ Kasjutusjuhend:
 Programmi käivitamiseks, tuleb see alla laadida siit: 
 Avamiseks vajuta “kalkulaator.html” failile ning projekt avaneb brauseris. Kasutasin eelkõige Google Chrome, kuid rakendus töötab ka teiste veebilehitsejatega (nt: Firefox jpt).
 
-**Päeva pikkuse arvutamine:
+**Päeva pikkuse arvutamine:**
 
 1. Sisesta laiuskraad vahemikus -90 kuni 90
 2. Sisesta pikkuskraad vahemikus -180 kuni 180
@@ -20,7 +20,7 @@ või
 Ekraani paremal poolel ilmuvad päikesetõus, -loojang kui ka päeva pikkus UTC ajavööndis.
 
 
-**Päeva pikkuse muutumise kuvamine graafiliselt:
+**Päeva pikkuse muutumise kuvamine graafiliselt:**
 
 1. Vali päeva pikkuse arvutamise osas meelepärane asukoht kaardilt või sisesta pikkuse ja laiuskraad.
 2. Vali perioodi alguskuupäev
